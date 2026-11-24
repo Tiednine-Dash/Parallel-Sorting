@@ -1,0 +1,12 @@
+BasedOnStyle: Mozilla
+BreakBeforeBraces: Allman
+AlwaysBreakAfterReturnType: All
+BreakAfterAttributes: Always
+PointerAlignment: Left
+SpaceAfterCStyleCast: true
+SpaceBeforeParens: Always
+SpaceBeforeCpp11BracedList: true
+
+BreakConstructorInitializers: BeforeColon
+ConstructorInitializerIndentWidth: 4
+PackConstructorInitializers: Never
